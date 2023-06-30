@@ -5,4 +5,4 @@ My name is Abhay Verma and Im a Aspiring Web Developer and Registered as a Front
 [![YouTube](./youtube.svg)](https://www.youtube.com/channel/UCHaTfEKNEsaq4t_BtXkBkdw)
 
 #### 💻 Technologies that I use
-![HTML5](./html.svg) ![CSS3](./css.svg) ![Bootstrap](./bootstrap.svg) ![TailwindCSS](./tailwind.svg) ![JavaScript](./javascript.svg) ![React](./react.svg) and lastly NODE JS also for deploying the servers
+![HTML5](./html.svg) ![CSS3](./css.svg) ![Bootstrap](./bootstrap.svg) ![TailwindCSS](./tailwind.svg) ![JavaScript](./javascript.svg) ![React](./react.svg)  ![NODE JS](./reactee.svg) 
