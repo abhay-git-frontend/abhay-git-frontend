@@ -1,5 +1,5 @@
 ### ✨ Who am I?
-My name is Reza Mehdikhanlou and I’m admin of AsmrProg youtube web developing channel. On this page you will find all of the code snippets that I share on my youtube channel.
+My name is Abhay Verma and Im a Aspiring Web Developer and Registered as a FrontEnd Engineer and Im the admin Being Computrisitic youtube channel and i am in 9th class with 2years of experience in front end engineering
 
 #### 🔗 My Youtube channel
 [![YouTube](./youtube.svg)](https://www.youtube.com/channel/UCHaTfEKNEsaq4t_BtXkBkdw)
