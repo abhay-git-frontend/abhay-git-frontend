@@ -1,1 +1,8 @@
-Hey Fella! Welcome To My github Gist were i upload my Latest And cool Projects and Im a Aspiring Front End Developer with 2 years of experience and currently in 9th class and i want expand my knowledge more
+### ✨ Who am I?
+My name is Reza Mehdikhanlou and I’m admin of AsmrProg youtube web developing channel. On this page you will find all of the code snippets that I share on my youtube channel.
+
+#### 🔗 My Youtube channel
+[![YouTube](./assets/youtube.svg)](https://www.youtube.com/channel/UCHaTfEKNEsaq4t_BtXkBkdw)
+
+#### 💻 Technologies that I use
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![Bootstrap](./assets/bootstrap.svg) ![TailwindCSS](./assets/tailwind.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg) ![NODE JS](./assets/react.svg)
