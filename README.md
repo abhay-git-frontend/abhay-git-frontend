@@ -5,4 +5,4 @@ My name is Reza Mehdikhanlou and I’m admin of AsmrProg youtube web developing 
 [![YouTube](./assets/youtube.svg)](https://www.youtube.com/channel/UCHaTfEKNEsaq4t_BtXkBkdw)
 
 #### 💻 Technologies that I use
-![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![Bootstrap](./assets/bootstrap.svg) ![TailwindCSS](./assets/tailwind.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg) ![NODE JS](./assets/react.svg)
+![HTML5](./html.svg) ![CSS3](./css.svg) ![Bootstrap](./bootstrap.svg) ![TailwindCSS](./tailwind.svg) ![JavaScript](./javascript.svg) ![React](./react.svg) ![NODE JS](./react.svg)
