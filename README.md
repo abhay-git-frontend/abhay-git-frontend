@@ -6,3 +6,14 @@ My name is Abhay Verma and Im a Aspiring Web Developer and Registered as a Front
 
 #### 💻 Technologies that I use
 ![HTML5](./html.svg) ![CSS3](./css.svg) ![Bootstrap](./bootstrap.svg) ![TailwindCSS](./tailwind.svg) ![JavaScript](./javascript.svg) ![React](./react.svg)  ![NODE JS](./reactee.svg) 
+
+
+
+#### Other Technologies I used
+
+1. TypeScript
+2. MYSQL
+3. MongoDB
+4. vue.js
+5. Python(DJANGO, Flask)
+6. C++
